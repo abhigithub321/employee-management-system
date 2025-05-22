@@ -10,6 +10,7 @@ Database: MySQL
 Build Tools: Maven (for backend), npm (for frontend)
 
 Backend Setup (Spring Boot)
+
 1.Clone the repository:
 
 git clone https://github.com/abhigithub321/employee-management-system.git
